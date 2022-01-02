@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm M. Azam Gresa Mahendra!
-I'm a Fresh Graduate
+I'm a Fresh Graduate.
 I'm currently focusing on studying to become a Front End Developer.
 
 
@@ -11,7 +11,7 @@ I'm currently focusing on studying to become a Front End Developer.
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
-
+<br>
 <p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=mazamgresam&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazamgresam&layout=compact" height=180 />
