@@ -5,7 +5,7 @@ I'm currently focusing on studying to become a Front End Developer.
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning HTML & CSS, Javascript, Typescript, Vue JS, and UI Design </br>
+    - 🌱 I’m currently learning Javascript, Typescript, Vue JS, and UI Design </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="azadra527@gmail.com">Email</a>  </br>
     - 😄 Pronouns: He/Him </br>
