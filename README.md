@@ -13,7 +13,7 @@ I'm currently focusing on studying to become a Front End Developer.
 </details>
 <br>
 <p></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mazamgresam&show_icons=true&theme=radical/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mazamgresam&show_icons=true&theme=radical" />
 
 </p>
 <br>
