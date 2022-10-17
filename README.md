@@ -1,22 +1,9 @@
 # Hi there 👋 , I'm M. Azam Gresa Mahendra!
-I'm a Fresh Graduate.
-I'm currently focusing on studying to become a Front End Developer.
 
-
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning VueJs & NodeJs</br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: azadra527@gmail.com </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-</details>
-<br>
 <p></p>
     <img src="https://github-readme-stats.vercel.app/api?username=mazamgresam&show_icons=true&theme=radical" />
 
 </p>
-<br>
 
 #### Languages:
 <img align="left" alt="HTML" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
